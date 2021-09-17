@@ -62,11 +62,11 @@ j!clear | j!ban |  j!kick | j!lock | j!unlock | j!mute | j!unmute | j!slowmode |
 **[ invite ]**
 **[ click here ](https://discord.com/api/oauth2/authorize?client_id=799228179784794183&permissions=8&scope=bot)** 
 **[ support ]**
-**[ click here ](https://discord.gg/3wykSpqjZq)**
+**[ click here ](https://discord.gg/9n6dj99ZEN)**
  `)
     
     .setFooter(` System bot ✨ | Coded by , JANO`, client.user.avatarURL)
-    .setURL("https://discord.gg/3wykSpqjZq")
+    .setURL("https://discord.gg/9n6dj99ZEN")
       
     message.channel.send(embed);
       message.react("<a:jano_27:799630916820795422>");
